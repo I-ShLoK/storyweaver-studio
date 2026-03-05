@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+psycopg2-binary
+python-dotenv
+openai>=1.0.0
+replicate
+moviepy
+python-multipart
